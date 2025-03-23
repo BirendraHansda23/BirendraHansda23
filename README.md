@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @BirendraHansda23
-- 👀 I’m interested in Graphic Designing as well as Web Development
+- 👋 Hi, I’m Birendra Kumar Hansda
+- 👀 I’m interested in Graphic Design as well as Web Development
 - 🌱 I’m currently learning Web Design & Development
 - 📫 My LinkedIn profile : https://www.linkedin.com/in/birendra-kumar-hansda-4b4583232/
 
