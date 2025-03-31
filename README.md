@@ -24,11 +24,21 @@
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white)
 
-## 📈 GitHub Stats
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=BirendraHansda23&show_icons=true&theme=radical&include_all_commits=true" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BirendraHansda23&theme=radical" width="48%"/>
-</p>
+## 📊 GitHub Stats  
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=BirendraHansda23&show_icons=true&theme=radical&include_all_commits=true" />
+    </td>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=BirendraHansda23&theme=radical" />
+    </td>
+  </tr>
+</table>
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BirendraHansda23&layout=compact&langs_count=6&theme=radical&hide_border=true)
+
 
 ## 📚 Currently Learning
 <p>
