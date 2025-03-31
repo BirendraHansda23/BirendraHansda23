@@ -1,4 +1,3 @@
-```markdown
 # 🚀 Birendra Kumar Hansda | Developer & Problem Solver
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/birendra-kumar-hansda)
@@ -39,7 +38,7 @@
 </p>
 
 📫 **Let's collaborate!** If you're working on something exciting, let's connect!
-```
+
 
 
 <!---
