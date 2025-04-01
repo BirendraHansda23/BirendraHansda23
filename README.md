@@ -31,9 +31,6 @@
     <td>
       <img src="https://github-readme-stats.vercel.app/api?username=BirendraHansda23&show_icons=true&theme=radical&include_all_commits=true" />
     </td>
-    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=BirendraHansda23&theme=radical" />
-    </td>
   </tr>
 </table>
 
