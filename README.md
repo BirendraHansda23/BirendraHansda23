@@ -1,4 +1,3 @@
-# 🚀 Birendra Kumar Hansda | Developer & Problem Solver
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/birendra-kumar-hansda)
 [![Visitors](https://komarev.com/ghpvc/?username=BirendraHansda23&label=Profile%20Views&color=0e75b6)](https://github.com/BirendraHansda23)
