@@ -4,7 +4,7 @@
 [![GitHub](https://img.shields.io/badge/-Follow-181717?logo=github)](https://github.com/BirendraHansda23)
 
 ## 💻 About Me
-- 🎓 **Final-year CSE student** | Actively preparing for placements.
+- 🎓 **Final-year CSE student** | Actively preparing for entry-level jobs.
 - 🖥️ **Full-Stack Web Developer** | Proficient in **JavaScript, Node.js, Express.js, PostgreSQL**.
 - ⚛️ **Learning React & Tailwind CSS** to enhance UI/UX skills.
 - 📈 **Strong in DSA** | Enjoy solving **data structures and algorithms problems**.
