@@ -3,10 +3,10 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/birendra-kumar-hansda">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin" />
-  </a>
+  </a> 
   <a href="https://github.com/BirendraHansda23">
     <img src="https://img.shields.io/badge/-Follow-181717?logo=github" />
-  </a>
+  </a> 
   <a href="https://github.com/BirendraHansda23">
     <img src="https://komarev.com/ghpvc/?username=BirendraHansda23&label=Profile%20Views&color=0e75b6" />
   </a>
@@ -52,14 +52,6 @@
     </td>
   </tr>
 </table>
-
----
-
-## 📚 Currently Learning
-
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?logo=tailwind-css)
-![System Design](https://img.shields.io/badge/-System%20Design-blue)
 
 ---
 
