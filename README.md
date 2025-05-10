@@ -1,16 +1,31 @@
+<h1 align="center">Hi there, I'm Birendra! 👋</h1>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/birendra-kumar-hansda)
-[![Visitors](https://komarev.com/ghpvc/?username=BirendraHansda23&label=Profile%20Views&color=0e75b6)](https://github.com/BirendraHansda23)
-[![GitHub](https://img.shields.io/badge/-Follow-181717?logo=github)](https://github.com/BirendraHansda23)
+<p align="center">
+  <a href="https://www.linkedin.com/in/birendra-kumar-hansda">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin" />
+  </a>
+  <a href="https://github.com/BirendraHansda23">
+    <img src="https://img.shields.io/badge/-Follow-181717?logo=github" />
+  </a>
+  <a href="https://github.com/BirendraHansda23">
+    <img src="https://komarev.com/ghpvc/?username=BirendraHansda23&label=Profile%20Views&color=0e75b6" />
+  </a>
+</p>
 
-## 💻 About Me
-- 🎓 **Final-year CSE student** | Actively preparing for entry-level jobs.
-- 🖥️ **Full-Stack Web Developer** | Proficient in **JavaScript, Node.js, Express.js, PostgreSQL**.
-- ⚛️ **Learning React & Tailwind CSS** to enhance UI/UX skills.
-- 📈 **Strong in DSA** | Enjoy solving **data structures and algorithms problems**.
+---
 
-## 📊 Tech Stack
-### **Languages & Frameworks**
+## 👨‍💻 About Me
+
+- 🎓 Final-year CSE student passionate about building useful products.
+- 🧠 Focused on solving DSA problems and improving problem-solving skills.
+- ⚛️ Exploring React and Tailwind CSS to create smooth, responsive UIs.
+- 🚀 Building full-stack apps with Node.js, Express, and PostgreSQL.
+
+---
+
+## 🛠️ My Tech Stack
+
+### 💻 Languages & Frameworks
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white)
@@ -18,36 +33,39 @@
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?logo=tailwind-css&logoColor=white)
 
-### **Tools & Technologies**
+### 🧰 Tools & Technologies
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white)
 
-## 📊 GitHub Stats  
+---
+
+## 📈 GitHub Stats
 
 <table>
   <tr>
     <td>
       <img src="https://github-readme-stats.vercel.app/api?username=BirendraHansda23&show_icons=true&theme=radical&include_all_commits=true" />
     </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BirendraHansda23&layout=compact&langs_count=6&theme=radical" />
+    </td>
   </tr>
 </table>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BirendraHansda23&layout=compact&langs_count=6&theme=radical&hide_border=true)
-
+---
 
 ## 📚 Currently Learning
-<p>
-  <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/-Tailwind_CSS-06B6D4?logo=tailwind-css" />
-  <img src="https://img.shields.io/badge/-System%20Design-blue" />
-</p>
 
-📫 **Let's collaborate!** If you're working on something exciting, let's connect!
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?logo=tailwind-css)
+![System Design](https://img.shields.io/badge/-System%20Design-blue)
 
+---
 
+## 🤝 Let's Connect!
 
-<!---
-BirendraHansda23/BirendraHansda23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+📬 Feel free to reach out if you’re building something interesting or just want to chat tech.
+
+---
+
