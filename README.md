@@ -16,7 +16,7 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 Final-year CSE student passionate about building useful products.
+- 🎓 Undergraduate CS student passionate about building useful products.
 - 🧠 Focused on solving DSA problems and improving problem-solving skills.
 - ⚛️ Exploring React and Tailwind CSS to create smooth, responsive UIs.
 - 🚀 Building full-stack apps with Node.js, Express, and PostgreSQL.
